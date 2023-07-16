@@ -1,0 +1,117 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+body {
+  font-family: cursive;
+}
+.grandparent_div {
+  background-image: url("https://media.istockphoto.com/id/1446229465/photo/red-heart-and-stethoscope-are-on-blue-background.jpg?b=1&s=170667a&w=0&k=20&c=1-aE7XV24f8qVr8fGnpvypir8fSxYaM9sHZurKoutj8=");
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 736px;
+  padding: 0;
+  margin: 0;
+}
+
+.links #button1 {
+  background-color: chocolate;
+  width: 100px;
+  height: 35px;
+  padding-left: 5px;
+  margin-top: 10px;
+  margin-left: 83%;
+  border: 3px solid black;
+  border-radius: 25%;
+}
+.links #button2 {
+  background-color: chocolate;
+  width: 100px;
+  height: 35px;
+  margin-top: 0%;
+  margin-left: 2%;
+  border: 3px solid black;
+  border-radius: 25%;
+}
+
+h1 {
+  margin-bottom: 20px;
+  margin-left: 6%;
+}
+
+h2 {
+  margin-top: 30px;
+}
+form {
+  border: 3px solid khaki;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  background-color: rgb(18, 107, 142);
+  color: white;
+  margin-right: 70%;
+  border-radius: 10px;
+  margin-left: 6%;
+}
+
+form label {
+  display: block;
+  margin-top: 10px;
+  margin-left: 7%;
+}
+
+form input {
+  margin-bottom: 8px;
+  padding: 5px;
+  width: 200px;
+  height: 20px;
+  border: 3px solid black;
+  border-radius: 25%;
+  margin-left: 7%;
+  margin-top: 4px;
+}
+
+form button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: rgb(8, 217, 8);
+  color: black;
+  border: none;
+  cursor: pointer;
+  margin-left: 6%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: 6%;
+}
+#data h2 {
+  margin-left: 6%;
+  color: white;
+  margin-top: 3%;
+  padding-bottom: 1%;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: rgb(18, 107, 142);
+  color: white;
+}
+
+#dataTable .green-border {
+  border: 2px solid green;
+  background-color: green;
+  color: white;
+}
+
+#dataTable .red-border {
+  border: 2px solid red;
+  background-color: red;
+  color: white;
+}
