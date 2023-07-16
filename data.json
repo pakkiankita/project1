@@ -1,1 +1,22 @@
-
+{
+  "users": [
+    {
+      "email": "nayaktariniprasad123@gmail.com",
+      "name": "abc",
+      "password": "Likun",
+      "id": 1
+    },
+    {
+      "email": "nayaktariniprasad123@gmail.com",
+      "name": "li",
+      "password": "li",
+      "id": 2
+    },
+    {
+      "email": "ankitapakki@gmail.com",
+      "name": "abc",
+      "password": "678",
+      "id": 3
+    }
+  ]
+}
